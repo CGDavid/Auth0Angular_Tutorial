@@ -1,6 +1,6 @@
 # Authapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0.
+This application is a part of a Angular tutorial. It's an implementation of an Auth0 authentication.
 
 ## Development server
 
